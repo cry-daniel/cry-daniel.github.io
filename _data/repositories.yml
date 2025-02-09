@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - cry-daniel
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - cry-daniel/Computer-Architecture-Learning
+  - cry-daniel/cry-daniel.github.io

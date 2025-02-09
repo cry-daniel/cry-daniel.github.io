@@ -1,8 +1,6 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-05-06 09:59:00-0400
 inline: true
-related_posts: false
 ---
-
-A simple inline announcement.
+Mathematical Contest in Modeling (MCM) : Outstanding Winner (top 0.15%, globally), COMAP Scholarship Award (4 out of 27,205 teams, $3000 / person), AMS Award

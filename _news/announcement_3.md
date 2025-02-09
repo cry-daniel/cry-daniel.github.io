@@ -1,8 +1,6 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-02-17 09:59:00-0400
 inline: true
-related_posts: false
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper “A Comprehensive Performance Model of Sparse Matrix-Vector Multiplication to Guide Kernel Optimization” has been accepted by TPDS 2022 (CCF-A)!
