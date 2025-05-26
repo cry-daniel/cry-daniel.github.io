@@ -375,7 +375,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-mathematical-contest-in-modeling-mcm-outstanding-winner-top-0-15-globally-comap-scholarship-award-4-out-of-27-205-teams-3000-person-ams-award",
+    },{id: "news-mathematical-contest-in-modeling-mcm-outstanding-winner-top-0-15-globally-comap-scholarship-award-4-out-of-27205-teams-3000-person-ams-award-for-details-please-visit-the-official-website-refer-to-2213970",
           title: 'Mathematical Contest in Modeling (MCM) : Outstanding Winner (top 0.15%, globally), COMAP Scholarship...',
           description: "",
           section: "News",},{id: "news-our-paper-a-comprehensive-performance-model-of-sparse-matrix-vector-multiplication-to-guide-kernel-optimization-has-been-accepted-by-tpds-2022-ccf-a",
@@ -384,7 +384,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-differential-matching-prefetcher-for-indirect-memory-access-has-been-accepted-by-hpca-2024-ccf-a",
           title: 'Our paper “Differential-Matching Prefetcher for Indirect Memory Access” has been accepted by HPCA...',
           description: "",
-          section: "News",},{id: "news-our-paper-gifts-efficient-gcn-inference-framework-on-pytorch-cpu-via-exploring-the-sparsity-has-been-accepted-by-ipdps-2025-ccf-b-first-author",
+          section: "News",},{id: "news-our-paper-gifts-efficient-gcn-inference-framework-on-pytorch-cpu-via-exploring-the-sparsity-has-been-accepted-by-ipdps-2025-ccf-b-first-author-our-code-has-been-open-sourced-and-is-available-at-https-github-com-aca-lab-gifts",
           title: 'Our paper “GIFTS: Efficient GCN Inference Framework on PyTorch-CPU via Exploring the Sparsity”...',
           description: "",
           section: "News",},{id: "news-our-paper-saga-a-memory-efficient-accelerator-for-gann-construction-via-harnessing-vertex-similarity-has-been-accepted-by-dac-2025-ccf-a-first-author",
