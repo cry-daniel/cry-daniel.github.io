@@ -45,8 +45,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-mathematical-contest-in-modeling-mcm-outstanding-winner-top-0-15-globally-comap-scholarship-award-4-out-of-27205-teams-3000-person-ams-award-for-details-please-visit-the-official-website-refer-to-2213970",
-          title: 'Mathematical Contest in Modeling (MCM) : Outstanding Winner (top 0.15%, globally), COMAP Scholarship...',
+    },{id: "news-i-was-honored-to-receive-the-outstanding-winner-award-top-0-15-globally-in-the-mathematical-contest-in-modeling-mcm-along-with-the-comap-scholarship-award-4-out-of-27205-teams-3000-per-person-and-the-ams-award-for-details-please-visit-the-official-website-refer-to-2213970",
+          title: 'I was honored to receive the Outstanding Winner Award (top 0.15%, globally) in...',
           description: "",
           section: "News",},{id: "news-our-paper-a-comprehensive-performance-model-of-sparse-matrix-vector-multiplication-to-guide-kernel-optimization-has-been-accepted-by-tpds-2022-ccf-a",
           title: 'Our paper “A Comprehensive Performance Model of Sparse Matrix-Vector Multiplication to Guide Kernel...',
@@ -62,6 +62,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-heat-npu-ndp-heterogeneous-architecture-for-transformer-empowered-graph-neural-networks-has-been-accepted-by-micro-2025-ccf-a-first-author",
           title: 'Our paper “HEAT: NPU-NDP HEterogeneous Architecture for Transformer-Empowered Graph Neural Networks” has been...',
+          description: "",
+          section: "News",},{id: "news-i-am-honored-to-have-received-the-2025-national-scholarship",
+          title: 'I am honored to have received the 2025 National Scholarship.',
           description: "",
           section: "News",},{
         id: 'social-email',
