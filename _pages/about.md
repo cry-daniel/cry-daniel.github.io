@@ -26,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a second-year PhD candidate at Shanghai Jiao Tong University (SJTU), supervised by [Prof.Xiaoyao Liang](https://acalab.sjtu.edu.cn/) and [Prof.Zhuoran Song](https://songzhuoran.github.io/). My research lies in Computer Architecture, specifically system or architecure optimazations on graph applications (e.g. GNN). Recently, I’ve also developed an interest in efficient LLM inference, with a particular focus on speculative decoding.
+I'm a third-year PhD candidate at Shanghai Jiao Tong University (SJTU), supervised by [Prof.Xiaoyao Liang](https://acalab.sjtu.edu.cn/) and [Prof.Zhuoran Song](https://songzhuoran.github.io/). My research lies in Computer Architecture, specifically system or architecure optimazations on graph applications (e.g. GNN). Recently, I’ve also developed an interest in efficient LLM inference, with a particular focus on speculative decoding.
